@@ -28,7 +28,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="239"/>
-      <sirenSettings value="55347"/>
+      <sirenSettings value="62062"/>
     </Item>
     <Item>
       <modelName>24valor18sedan2</modelName>
@@ -57,7 +57,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="239"/>
-      <sirenSettings value="20120"/>
+      <sirenSettings value="82496"/>
     </Item>
     <Item>
       <modelName>24valor18sedan3</modelName>
@@ -86,7 +86,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="239"/>
-      <sirenSettings value="63586"/>
+      <sirenSettings value="69514"/>
     </Item>
     <Item>
       <modelName>24valor18sedan4</modelName>
@@ -115,7 +115,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="239"/>
-      <sirenSettings value="76867"/>
+      <sirenSettings value="69684"/>
     </Item>
     <Item>
       <modelName>24valor18sedan20</modelName>
@@ -144,7 +144,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="239"/>
-      <sirenSettings value="39327"/>
+      <sirenSettings value="42464"/>
     </Item>
     <Item>
       <modelName>24valor18sedan20sl</modelName>
@@ -173,7 +173,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="239"/>
-      <sirenSettings value="15154"/>
+      <sirenSettings value="44140"/>
     </Item>
     <Item>
       <modelName>24valor16sedan</modelName>
@@ -202,7 +202,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="241"/>
-      <sirenSettings value="85686"/>
+      <sirenSettings value="44884"/>
     </Item>
     <Item>
       <modelName>24valor16sedan2</modelName>
@@ -231,7 +231,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="241"/>
-      <sirenSettings value="41973"/>
+      <sirenSettings value="33709"/>
     </Item>
     <Item>
       <modelName>24valor16sedan3</modelName>
@@ -260,7 +260,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="241"/>
-      <sirenSettings value="75260"/>
+      <sirenSettings value="64300"/>
     </Item>
     <Item>
       <modelName>24valor16sedan4</modelName>
@@ -289,7 +289,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="241"/>
-      <sirenSettings value="83296"/>
+      <sirenSettings value="29684"/>
     </Item>
     <Item>
       <modelName>24valor16sedan20</modelName>
@@ -318,7 +318,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="241"/>
-      <sirenSettings value="73765"/>
+      <sirenSettings value="60819"/>
     </Item>
     <Item>
       <modelName>24valor16sedan20sl</modelName>
@@ -347,7 +347,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="241"/>
-      <sirenSettings value="33181"/>
+      <sirenSettings value="39569"/>
     </Item>
     <Item>
       <modelName>24valor20utility</modelName>
@@ -376,7 +376,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="242"/>
-      <sirenSettings value="18945"/>
+      <sirenSettings value="23614"/>
     </Item>
     <Item>
       <modelName>24valor20utility2</modelName>
@@ -405,7 +405,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="242"/>
-      <sirenSettings value="59070"/>
+      <sirenSettings value="61336"/>
     </Item>
     <Item>
       <modelName>24valor20utility3</modelName>
@@ -434,7 +434,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="242"/>
-      <sirenSettings value="16615"/>
+      <sirenSettings value="60269"/>
     </Item>
     <Item>
       <modelName>24valor20utility4</modelName>
@@ -463,7 +463,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="242"/>
-      <sirenSettings value="66367"/>
+      <sirenSettings value="63017"/>
     </Item>
     <Item>
       <modelName>24valor20utility20</modelName>
@@ -492,7 +492,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="242"/>
-      <sirenSettings value="36988"/>
+      <sirenSettings value="36879"/>
     </Item>
     <Item>
       <modelName>24valor20utility20sl</modelName>
@@ -521,7 +521,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="242"/>
-      <sirenSettings value="98787"/>
+      <sirenSettings value="51558"/>
     </Item>
     <Item>
       <modelName>24valor16utility</modelName>
@@ -550,7 +550,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="243"/>
-      <sirenSettings value="67944"/>
+      <sirenSettings value="90626"/>
     </Item>
     <Item>
       <modelName>24valor16utility2</modelName>
@@ -579,7 +579,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="243"/>
-      <sirenSettings value="13587"/>
+      <sirenSettings value="45681"/>
     </Item>
     <Item>
       <modelName>24valor16utility3</modelName>
@@ -608,7 +608,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="243"/>
-      <sirenSettings value="60327"/>
+      <sirenSettings value="24934"/>
     </Item>
     <Item>
       <modelName>24valor16utility4</modelName>
@@ -637,7 +637,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="243"/>
-      <sirenSettings value="35880"/>
+      <sirenSettings value="87409"/>
     </Item>
     <Item>
       <modelName>24valor16utility20</modelName>
@@ -666,7 +666,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="243"/>
-      <sirenSettings value="70738"/>
+      <sirenSettings value="79392"/>
     </Item>
     <Item>
       <modelName>24valor16utility20sl</modelName>
@@ -695,7 +695,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="243"/>
-      <sirenSettings value="93207"/>
+      <sirenSettings value="43488"/>
     </Item>
     <Item>
       <modelName>24valor18utility</modelName>
@@ -724,7 +724,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="244"/>
-      <sirenSettings value="46044"/>
+      <sirenSettings value="36433"/>
     </Item>
     <Item>
       <modelName>24valor18utility2</modelName>
@@ -753,7 +753,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="244"/>
-      <sirenSettings value="15572"/>
+      <sirenSettings value="69054"/>
     </Item>
     <Item>
       <modelName>24valor18utility3</modelName>
@@ -782,7 +782,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="244"/>
-      <sirenSettings value="53930"/>
+      <sirenSettings value="43258"/>
     </Item>
     <Item>
       <modelName>24valor18utility4</modelName>
@@ -811,7 +811,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="244"/>
-      <sirenSettings value="49520"/>
+      <sirenSettings value="66768"/>
     </Item>
     <Item>
       <modelName>24valor18utility20</modelName>
@@ -840,7 +840,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="244"/>
-      <sirenSettings value="30092"/>
+      <sirenSettings value="17707"/>
     </Item>
     <Item>
       <modelName>24valor18utility20sl</modelName>
@@ -869,7 +869,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="244"/>
-      <sirenSettings value="48741"/>
+      <sirenSettings value="83551"/>
     </Item>
     <Item>
       <modelName>24valor18suv</modelName>
@@ -898,7 +898,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="245"/>
-      <sirenSettings value="98975"/>
+      <sirenSettings value="63924"/>
     </Item>
     <Item>
       <modelName>24valor18suv2</modelName>
@@ -927,7 +927,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="245"/>
-      <sirenSettings value="55640"/>
+      <sirenSettings value="33520"/>
     </Item>
     <Item>
       <modelName>24valor18suv3</modelName>
@@ -956,7 +956,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="245"/>
-      <sirenSettings value="59678"/>
+      <sirenSettings value="86150"/>
     </Item>
     <Item>
       <modelName>24valor18suv4</modelName>
@@ -985,7 +985,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="245"/>
-      <sirenSettings value="89413"/>
+      <sirenSettings value="85877"/>
     </Item>
     <Item>
       <modelName>24valor18suv20</modelName>
@@ -1014,7 +1014,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="245"/>
-      <sirenSettings value="62048"/>
+      <sirenSettings value="46708"/>
     </Item>
     <Item>
       <modelName>24valor18suv20sl</modelName>
@@ -1043,7 +1043,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="245"/>
-      <sirenSettings value="79138"/>
+      <sirenSettings value="70712"/>
     </Item>
     <Item>
       <modelName>24valor1500</modelName>
@@ -1072,7 +1072,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="246"/>
-      <sirenSettings value="12367"/>
+      <sirenSettings value="96228"/>
     </Item>
     <Item>
       <modelName>24valor15002</modelName>
@@ -1101,7 +1101,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="246"/>
-      <sirenSettings value="22710"/>
+      <sirenSettings value="24680"/>
     </Item>
     <Item>
       <modelName>24valor15003</modelName>
@@ -1130,7 +1130,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="246"/>
-      <sirenSettings value="58952"/>
+      <sirenSettings value="17669"/>
     </Item>
     <Item>
       <modelName>24valor15004</modelName>
@@ -1159,7 +1159,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="246"/>
-      <sirenSettings value="34285"/>
+      <sirenSettings value="86875"/>
     </Item>
     <Item>
       <modelName>24valor150020</modelName>
@@ -1188,7 +1188,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="246"/>
-      <sirenSettings value="19155"/>
+      <sirenSettings value="84476"/>
     </Item>
     <Item>
       <modelName>24valor150020sl</modelName>
@@ -1217,7 +1217,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="246"/>
-      <sirenSettings value="77815"/>
+      <sirenSettings value="45339"/>
     </Item>
     <Item>
       <modelName>24valor2500</modelName>
@@ -1246,7 +1246,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="247"/>
-      <sirenSettings value="57123"/>
+      <sirenSettings value="12622"/>
     </Item>
     <Item>
       <modelName>24valor25002</modelName>
@@ -1275,7 +1275,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="247"/>
-      <sirenSettings value="90023"/>
+      <sirenSettings value="13483"/>
     </Item>
     <Item>
       <modelName>24valor25003</modelName>
@@ -1304,7 +1304,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="247"/>
-      <sirenSettings value="51691"/>
+      <sirenSettings value="97995"/>
     </Item>
     <Item>
       <modelName>24valor25004</modelName>
@@ -1333,7 +1333,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="247"/>
-      <sirenSettings value="65480"/>
+      <sirenSettings value="75957"/>
     </Item>
     <Item>
       <modelName>24valor250020</modelName>
@@ -1362,7 +1362,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="247"/>
-      <sirenSettings value="43864"/>
+      <sirenSettings value="40623"/>
     </Item>
     <Item>
       <modelName>24valor250020sl</modelName>
@@ -1391,7 +1391,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="247"/>
-      <sirenSettings value="78680"/>
+      <sirenSettings value="88212"/>
     </Item>
   </variationData>
 </CVehicleModelInfoVariation>

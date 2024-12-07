@@ -26,6 +26,7 @@ import logging
 from typing import Optional, Set, Dict, List, Tuple
 from pathlib import Path
 from lxml import etree
+import re
 
 from .meta_file_handler import MetaFileHandler
 from .id_generator import IDGenerator
@@ -198,3 +199,20 @@ class ConflictResolver:
                         return vehicle_name.lower() in element_vehicle.lower()
 
         return False
+    
+    def get_vehicle_list(self):
+        """Extract vehicle names from kitName patterns in carcols.meta."""
+        vehicles = set()
+
+        # Find all kitName elements in carcols.meta
+        kit_names = self.carcols_root.findall(".//kitName")
+
+        for kit_name in kit_names:
+            if kit_name.text:
+                # Pattern: NUMBER_VEHICLENAME_modkit
+                match = re.match(r'\d+_([^_]+)_modkit', kit_name.text)
+                if match:
+                    vehicle_name = match.group(1)
+                    vehicles.add(vehicle_name)
+
+        return sorted(list(vehicles))

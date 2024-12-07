@@ -1,0 +1,107 @@
+Folder PATH listing for volume The Big Boi
+Volume serial number is 54D4-6F5D
+F:.
+�   .gitignore
+�   analyze_carcols.py
+�   analyze_carvariations.py
+�   analyze_meta.py
+�   architecture.md
+�   build.py
+�   CONTRIBUTING.md
+�   debug.log
+�   debug_gui.py
+�   FiveM-Meta-Tool.spec
+�   LICENSE
+�   meta_tool_gui.py
+�   meta_tool_gui.spec
+�   README.md
+�   requirements.md
+�   setup.py
+�   test_functionality.py
+�   test_parser.py
+�   tree.txt
+�   
++---attachments
+�       carcols.meta
+�       carvariations.meta
+�       
++---backups_20241206_215740
+�       carcols.meta
+�       carvariations.meta
+�       
++---build
+�   +---FiveM-Meta-Tool
+�   �   �   Analysis-00.toc
+�   �   �   base_library.zip
+�   �   �   EXE-00.toc
+�   �   �   FiveM-Meta-Tool.pkg
+�   �   �   PKG-00.toc
+�   �   �   PYZ-00.pyz
+�   �   �   PYZ-00.toc
+�   �   �   warn-FiveM-Meta-Tool.txt
+�   �   �   xref-FiveM-Meta-Tool.html
+�   �   �   
+�   �   +---localpycs
+�   �           pyimod01_archive.pyc
+�   �           pyimod02_importers.pyc
+�   �           pyimod03_ctypes.pyc
+�   �           pyimod04_pywin32.pyc
+�   �           struct.pyc
+�   �           
+�   +---meta_tool_gui
+�       �   Analysis-00.toc
+�       �   base_library.zip
+�       �   EXE-00.toc
+�       �   meta_tool_gui.pkg
+�       �   PKG-00.toc
+�       �   PYZ-00.pyz
+�       �   PYZ-00.toc
+�       �   warn-meta_tool_gui.txt
+�       �   xref-meta_tool_gui.html
+�       �   
+�       +---localpycs
+�               pyimod01_archive.pyc
+�               pyimod02_importers.pyc
+�               pyimod03_ctypes.pyc
+�               pyimod04_pywin32.pyc
+�               struct.pyc
+�               
++---dist
++---examples
+�       batch_process.py
+�       single_vehicle.py
+�       
++---gta_meta_tool.egg-info
+�       dependency_links.txt
+�       entry_points.txt
+�       PKG-INFO
+�       requires.txt
+�       SOURCES.txt
+�       top_level.txt
+�       
++---gui
+�       test_gui.py         
++---meta_tool
+�   �   cli.py
+�   �   conflict_resolver.py
+�   �   id_generator.py
+�   �   meta_file_handler.py
+�   �   __init__.py
+�   �   __main__.py
+�   �   
+�   +---__pycache__
+�           cli.cpython-311.pyc
+�           conflict_resolver.cpython-311.pyc
+�           id_generator.cpython-311.pyc
+�           meta_file_handler.cpython-311.pyc
+�           __init__.cpython-311.pyc
+�           
++---meta_tool.egg-info
+�       dependency_links.txt
+�       entry_points.txt
+�       PKG-INFO
+�       requires.txt
+�       SOURCES.txt
+�       top_level.txt
+�       
+
