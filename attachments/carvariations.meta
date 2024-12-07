@@ -1,0 +1,1397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>24valor18sedan</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            27
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>651_24valor18sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="239"/>
+      <sirenSettings value="55347"/>
+    </Item>
+    <Item>
+      <modelName>24valor18sedan2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            27
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>651_24valor18sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="239"/>
+      <sirenSettings value="20120"/>
+    </Item>
+    <Item>
+      <modelName>24valor18sedan3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            27
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>651_24valor18sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="239"/>
+      <sirenSettings value="63586"/>
+    </Item>
+    <Item>
+      <modelName>24valor18sedan4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            27
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>651_24valor18sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="239"/>
+      <sirenSettings value="76867"/>
+    </Item>
+    <Item>
+      <modelName>24valor18sedan20</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            27
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>651_24valor18sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="239"/>
+      <sirenSettings value="39327"/>
+    </Item>
+    <Item>
+      <modelName>24valor18sedan20sl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            27
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>651_24valor18sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="239"/>
+      <sirenSettings value="15154"/>
+    </Item>
+    <Item>
+      <modelName>24valor16sedan</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>652_24valor16sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="241"/>
+      <sirenSettings value="85686"/>
+    </Item>
+    <Item>
+      <modelName>24valor16sedan2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>652_24valor16sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="241"/>
+      <sirenSettings value="41973"/>
+    </Item>
+    <Item>
+      <modelName>24valor16sedan3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>652_24valor16sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="241"/>
+      <sirenSettings value="75260"/>
+    </Item>
+    <Item>
+      <modelName>24valor16sedan4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>652_24valor16sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="241"/>
+      <sirenSettings value="83296"/>
+    </Item>
+    <Item>
+      <modelName>24valor16sedan20</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>652_24valor16sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="241"/>
+      <sirenSettings value="73765"/>
+    </Item>
+    <Item>
+      <modelName>24valor16sedan20sl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>652_24valor16sedan_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="241"/>
+      <sirenSettings value="33181"/>
+    </Item>
+    <Item>
+      <modelName>24valor20utility</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>653_24valor20utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="242"/>
+      <sirenSettings value="18945"/>
+    </Item>
+    <Item>
+      <modelName>24valor20utility2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>653_24valor20utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="242"/>
+      <sirenSettings value="59070"/>
+    </Item>
+    <Item>
+      <modelName>24valor20utility3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>653_24valor20utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="242"/>
+      <sirenSettings value="16615"/>
+    </Item>
+    <Item>
+      <modelName>24valor20utility4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>653_24valor20utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="242"/>
+      <sirenSettings value="66367"/>
+    </Item>
+    <Item>
+      <modelName>24valor20utility20</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>653_24valor20utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="242"/>
+      <sirenSettings value="36988"/>
+    </Item>
+    <Item>
+      <modelName>24valor20utility20sl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>653_24valor20utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="242"/>
+      <sirenSettings value="98787"/>
+    </Item>
+    <Item>
+      <modelName>24valor16utility</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>654_24valor16utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="243"/>
+      <sirenSettings value="67944"/>
+    </Item>
+    <Item>
+      <modelName>24valor16utility2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>654_24valor16utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="243"/>
+      <sirenSettings value="13587"/>
+    </Item>
+    <Item>
+      <modelName>24valor16utility3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>654_24valor16utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="243"/>
+      <sirenSettings value="60327"/>
+    </Item>
+    <Item>
+      <modelName>24valor16utility4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>654_24valor16utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="243"/>
+      <sirenSettings value="35880"/>
+    </Item>
+    <Item>
+      <modelName>24valor16utility20</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>654_24valor16utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="243"/>
+      <sirenSettings value="70738"/>
+    </Item>
+    <Item>
+      <modelName>24valor16utility20sl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            140
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>654_24valor16utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="243"/>
+      <sirenSettings value="93207"/>
+    </Item>
+    <Item>
+      <modelName>24valor18utility</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>655_24valor18utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="244"/>
+      <sirenSettings value="46044"/>
+    </Item>
+    <Item>
+      <modelName>24valor18utility2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>655_24valor18utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="244"/>
+      <sirenSettings value="15572"/>
+    </Item>
+    <Item>
+      <modelName>24valor18utility3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>655_24valor18utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="244"/>
+      <sirenSettings value="53930"/>
+    </Item>
+    <Item>
+      <modelName>24valor18utility4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>655_24valor18utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="244"/>
+      <sirenSettings value="49520"/>
+    </Item>
+    <Item>
+      <modelName>24valor18utility20</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>655_24valor18utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="244"/>
+      <sirenSettings value="30092"/>
+    </Item>
+    <Item>
+      <modelName>24valor18utility20sl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>655_24valor18utility_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="244"/>
+      <sirenSettings value="48741"/>
+    </Item>
+    <Item>
+      <modelName>24valor18suv</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>656_24valor18suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="245"/>
+      <sirenSettings value="98975"/>
+    </Item>
+    <Item>
+      <modelName>24valor18suv2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>656_24valor18suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="245"/>
+      <sirenSettings value="55640"/>
+    </Item>
+    <Item>
+      <modelName>24valor18suv3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>656_24valor18suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="245"/>
+      <sirenSettings value="59678"/>
+    </Item>
+    <Item>
+      <modelName>24valor18suv4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>656_24valor18suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="245"/>
+      <sirenSettings value="89413"/>
+    </Item>
+    <Item>
+      <modelName>24valor18suv20</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>656_24valor18suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="245"/>
+      <sirenSettings value="62048"/>
+    </Item>
+    <Item>
+      <modelName>24valor18suv20sl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>656_24valor18suv_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="245"/>
+      <sirenSettings value="79138"/>
+    </Item>
+    <Item>
+      <modelName>24valor1500</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>657_24valor1500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="246"/>
+      <sirenSettings value="12367"/>
+    </Item>
+    <Item>
+      <modelName>24valor15002</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>657_24valor1500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="246"/>
+      <sirenSettings value="22710"/>
+    </Item>
+    <Item>
+      <modelName>24valor15003</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>657_24valor1500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="246"/>
+      <sirenSettings value="58952"/>
+    </Item>
+    <Item>
+      <modelName>24valor15004</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>657_24valor1500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="246"/>
+      <sirenSettings value="34285"/>
+    </Item>
+    <Item>
+      <modelName>24valor150020</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>657_24valor1500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="246"/>
+      <sirenSettings value="19155"/>
+    </Item>
+    <Item>
+      <modelName>24valor150020sl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>657_24valor1500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="246"/>
+      <sirenSettings value="77815"/>
+    </Item>
+    <Item>
+      <modelName>24valor2500</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>658_24valor2500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="247"/>
+      <sirenSettings value="57123"/>
+    </Item>
+    <Item>
+      <modelName>24valor25002</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>658_24valor2500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="247"/>
+      <sirenSettings value="90023"/>
+    </Item>
+    <Item>
+      <modelName>24valor25003</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>658_24valor2500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="247"/>
+      <sirenSettings value="51691"/>
+    </Item>
+    <Item>
+      <modelName>24valor25004</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>658_24valor2500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="247"/>
+      <sirenSettings value="65480"/>
+    </Item>
+    <Item>
+      <modelName>24valor250020</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>658_24valor2500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="247"/>
+      <sirenSettings value="43864"/>
+    </Item>
+    <Item>
+      <modelName>24valor250020sl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            70
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>658_24valor2500_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="247"/>
+      <sirenSettings value="78680"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
