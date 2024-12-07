@@ -13,10 +13,10 @@ pip install -e .
 
 ```bash
 # Process all vehicles in both meta files
-meta-tool resolve --carcols path/to/carcols.meta --variations path/to/carvariations.meta
+meta-tool resolve-carcols path/to/carcols.meta ath/to/carvariations.meta
 
 # Process a specific vehicle
-meta-tool resolve --carcols path/to/carcols.meta --variations path/to/carvariations.meta --vehicle 24valor18sedan
+meta-tool resolve-carcols path/to/carcols.meta path/to/carvariations.meta 24valor18sedan
 ```
 
 ### Command Options
@@ -79,7 +79,7 @@ The tool updates modkit IDs consistently across both files:
 Run the tool with debug logging for more detailed information:
 
 ```bash
-meta-tool --debug resolve --carcols path/to/carcols.meta --variations path/to/carvariations.meta
+meta-tool --debug resolve-carcols path/to/carcols.meta path/to/carvariations.meta
 ```
 
 ## Examples
@@ -108,3 +108,4 @@ resolver = ConflictResolver('carcols.meta', 'carvariations.meta')
 # Process all vehicles
 changes = resolver.resolve_modkit_conflicts()
 print(f"Updated {len(changes['carcols'])} modkit IDs")
+```
